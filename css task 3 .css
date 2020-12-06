@@ -1,0 +1,66 @@
+body{
+  background-image:url("https://images.unsplash.com/photo-1547141646-9b35c56e093e?ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80&fbclid=IwAR3Tla7FSuTCcJX16uvNL00AiXCAmt4JJ7MUWaLUTjMNW3pAPLvaNmgSd9E");
+  background-repeat:no-repeat;
+   background-size:cover;
+}
+.welcome-heading{
+  margin-top:10px;
+  color:white;
+  text-align:center;
+  font-size:96px;
+  font-family:"Almarai";
+  }
+  .main-description{
+    text-align:center;
+    color:white;
+    font-family:"Almarai";
+    font-style:bold;
+    margin-top:15px;
+    }
+    .content-heading{
+      font-family:"Almarai";
+      color:white;
+      font-size:48px;
+
+ }
+  .content-paragraph{
+    font-family:"Almarai";
+    color:white;
+    font-style:bold;
+    margin-top:10px;
+    margin-left:8px;
+    margin-right:8px;
+
+ }
+ .content-item1{
+   text-align:center;
+border-style:double;
+   border-color:white;
+margin-left:30px;
+ padding-top: 5px;
+  padding-right: 0px;
+  padding-bottom: 5px;
+  padding-left: 0px;
+  margin-top:30px;
+
+border-radius:15px;
+border-width:medium;
+border-color:medium;
+background-color:#000000c4;
+   float:left;
+ }
+ .content-item2{
+   margin-top:30px;
+   text-align:center;
+    padding-top: 5px;
+  padding-right: 0px;
+  padding-bottom: 5px;
+  padding-left: 0px;
+margin-right:30px;
+margin-
+border-style:double ;
+border-radius:15px;
+   border-color:white;
+   background-color:#000000c4;
+   float:right;
+  }
